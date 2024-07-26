@@ -1,0 +1,1 @@
+This repository features an innovative project designed to manage traffic during the arrival of emergency vehicles. The system is controlled via a mobile application, ensuring that emergency vehicles can navigate through traffic efficiently and without delay, thereby enhancing response times and overall safety.
